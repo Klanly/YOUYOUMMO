@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 159544592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cee76d93330d988805634775b6db68f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/UICommon/Btn_Arrow_Down.png
+Dependencies: []

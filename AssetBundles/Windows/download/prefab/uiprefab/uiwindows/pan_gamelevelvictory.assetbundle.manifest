@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 339925050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5686d973554e45e5d6cba9992b77e4dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d6a5e8a15b50217837c3c197234b5980
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4b9261664821184ebd74cfd1371ac65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe8a53a6060a5df428027044b6714cb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e273a6acacada4892af100b83ca74e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/UIPrefab/UIWindows/pan_GameLevelVictory.prefab
+Dependencies:
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/uifont/font_jcy.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/gamelevel/gamelevelvictorybg.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/gamelevel/gamelevelvictoryrole.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/gamelevel/victorybg2.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/gamelevel/victorytitle.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/itemico/110301.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/itemico/110302.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_004.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_010.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/btn_style1_normal.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_exp.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_start.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_tongqian.assetbundle

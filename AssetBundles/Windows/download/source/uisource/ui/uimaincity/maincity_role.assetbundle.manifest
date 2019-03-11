@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 860744868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a50926d8f34c62c0e4945ad72cf57f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/UIMainCity/MainCity_Role.png
+Dependencies: []

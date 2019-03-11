@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3469092126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 680aed182e8c5d33c0b81fc179b67114
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/UICommon/Ico_MP.png
+Dependencies: []

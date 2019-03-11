@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 730072083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 754468d40418ef36ca7c9f64f146336a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Scene/Scene_SelectRole.unity
+Dependencies:
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/prefab/uiprefab/uiwindowschild/selectrole/roleitemview.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/prefab/uiprefab/uiscene/ui_root_selectrole.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/uifont/font_jcy.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/headimg/headpic_role_cike.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/headimg/headpic_role_fashi.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/headimg/headpic_role_juchui.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/headimg/headpic_role_zhanshi.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_001.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_002.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_003.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_004.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_005.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_006.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_007.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/btn_close.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/btn_style1_disabled.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/btn_style1_highlighted.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/btn_style1_normal.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/btn_style1_pressed.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_shaizi.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/input_bg_01.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/titlebg_002.assetbundle

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3152157339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3130516a6f8bafda2a6c54b67ce5590
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1baffb78a3a7e3bed6df6ac2ccfbf6c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/Effect/Role/JiaKeChong/Role_Monster_JiaKeChong_Effect_Phy_1.prefab
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2815384955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49d49058cc1c6bb93c1b55894625a73d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/UIRole/BG_Cuff.png
+Dependencies: []

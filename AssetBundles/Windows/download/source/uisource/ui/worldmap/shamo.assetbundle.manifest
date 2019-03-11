@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2769091087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1220a6fd61b54a10991eab895b9cc5bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/WorldMap/shamo.png
+Dependencies: []

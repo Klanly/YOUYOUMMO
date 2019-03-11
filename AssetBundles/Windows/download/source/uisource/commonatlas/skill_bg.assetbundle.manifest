@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2561265271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51ac9195da473d9f4ac48ff93477f4bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/CommonAtlas/Skill_BG.png
+Dependencies: []

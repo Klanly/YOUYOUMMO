@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 609321240
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: download/prefab/roleprefab/player/role_mainplayer_juchui.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: download/prefab/roleprefab/player/role_mainplayer_zhanshi.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: download/prefab/roleprefab/monster/role_monster_jiakechong.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: download/prefab/roleprefab/npc/npc_zhujian.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: download/prefab/roleprefab/monster/role_monster_1.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: download/prefab/roleprefab/player/role_mainplayer_cike.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: download/prefab/roleprefab/monster/role_monster_2.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: download/prefab/roleprefab/player/role_mainplayer_fashi.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: download/source/uisource/uifont/font_jcy.assetbundle
+      Dependencies: {}

@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 3923118024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb11fda11b421684453d00bd071a55cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fd1740dea7f9f64c3e5cea318e96bbc0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 107376248d2eb8f4eb9bb72592e0feef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ebd3f34679a5064985f35019a48aa65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ad7be86410daf945a8c653259df4531, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d944dec7d04db9e4bb5983aac658e9f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6579a86890769d84f8529b7c3c170b73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcaefb0a0519f934c8d59ec3860bb447, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cbf225b37d07c843a3f8f43c9cdba21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dd29e2c9a04b984191b35f72f00907a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d99186ac6b621c0409aa984800518210, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48afd97d481fc544b94e08bd6aa2742a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a62bca5e418d82e448629a5c493241e8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/UIPrefab/UIScene/UI_Root_MainCity.prefab
+Dependencies:
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/uifont/font_jcy.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/commonatlas/ico_blood.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/headimg/headpic_role_zhanshi.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/skill/skillpic_cike1.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/skill/skillpic_cike2.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/skill/skillpic_cike3.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/skill/skillpic_cike6.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/smallmap/smallmap_hupaocun.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/autofight.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_004.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/bg_007.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/cancelautofight.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_arrows.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_hp.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_hp_bg.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_mp.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_skillbg.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_smallmaparr.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_tongqian.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_yuanbao.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_yuanbg.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_backpack.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_equip.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_gamelevel.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_kungfu.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_ranking.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_role.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_roleinfo.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_shop.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_task.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uimaincity/maincity_worldmap.assetbundle

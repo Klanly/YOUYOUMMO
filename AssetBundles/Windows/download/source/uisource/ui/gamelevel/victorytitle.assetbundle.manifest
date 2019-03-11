@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 129037490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7f2dbc4e6c09e04000c991815856fed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/GameLevel/VictoryTitle.png
+Dependencies: []

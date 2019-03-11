@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2696601033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6ba142f1f3529ee9bbcf7a13b302e88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e0836769e93b11630f5d9c97b50f4727
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e526d3f1665f1e94da20d1a7bf330d80, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/UIPrefab/UIOther/UITipItem.prefab
+Dependencies:
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/uifont/font_jcy.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_exp.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/ico_tongqian.assetbundle

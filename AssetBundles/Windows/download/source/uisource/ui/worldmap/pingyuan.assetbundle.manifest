@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2639402507
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21a82483d47df4bc00468498f5a230f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/WorldMap/pingyuan.png
+Dependencies: []

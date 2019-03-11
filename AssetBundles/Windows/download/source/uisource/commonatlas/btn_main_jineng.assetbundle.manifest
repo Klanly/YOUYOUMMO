@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1480274130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fe9879cd532777bf591178677cf3a59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/CommonAtlas/Btn_Main_JiNeng.png
+Dependencies: []

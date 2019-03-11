@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1744016415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f84b562278afa9c97759ae987688f74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/CommonAtlas/Btn_Main_GongHui.png
+Dependencies: []

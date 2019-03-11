@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2658429494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e276e409a4e0e80859ecd4296a29f9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2eb116811cb7f6c0cec124d47ee6cd2e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fc0a2e8e09cba842a614136cc850c6a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/Effect/Common/Efflect_Trans.prefab
+Dependencies: []

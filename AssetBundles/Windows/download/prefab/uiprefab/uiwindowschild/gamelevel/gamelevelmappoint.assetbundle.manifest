@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 776491028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9863170c175815ba790a2f2209e19782
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27052507f4e802d502d18f94570c0d09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e349b39556227f43bd8d638dbd40915, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/UIPrefab/UIWindowsChild/GameLevel/GameLevelMapPoint.prefab
+Dependencies:
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/huangdian.assetbundle
+- F:/BaiduYunDownload/mmoVideo/MMORPG/Assets/../AssetBundles/Windows/download/source/uisource/ui/uicommon/huidian.assetbundle

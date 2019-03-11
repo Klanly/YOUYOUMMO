@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3082035548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d769dab46d2d48a8f1d323a0650cf26d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/BackGround/LogOn_BG.png
+Dependencies: []

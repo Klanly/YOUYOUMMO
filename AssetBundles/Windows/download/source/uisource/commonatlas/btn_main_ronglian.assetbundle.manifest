@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 56183752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f029cac7778510c001a356efd3b2d0b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/CommonAtlas/Btn_Main_RongLian.png
+Dependencies: []

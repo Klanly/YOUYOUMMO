@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1840647062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 006fe62e705674fe1490fc46d63b6614
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/SmallMap/SmallMap_ChangAn.png
+Dependencies: []

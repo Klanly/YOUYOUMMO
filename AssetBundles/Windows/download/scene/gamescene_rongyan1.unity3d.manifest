@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2851138589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 260c981ffdbaed399e3fffb07401985f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Scene/GameScene_RongYan1.unity
+Dependencies: []

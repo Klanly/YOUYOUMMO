@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4140977887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fdeb122543726c3c829f1db5b9e5c4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/EquipIco/120218.png
+Dependencies: []

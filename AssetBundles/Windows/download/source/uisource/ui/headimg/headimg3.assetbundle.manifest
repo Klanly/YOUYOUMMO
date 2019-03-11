@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3172290761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39af04ef0fcbb985041ef5f385504684
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/HeadImg/HeadImg3.png
+Dependencies: []

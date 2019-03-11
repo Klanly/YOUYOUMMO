@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1607894411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e1ea7fd69e3a9d394ede7184a1ab33e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/UICommon/Status_2.png
+Dependencies: []

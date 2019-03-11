@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1708524913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 484b90dfccfa4400612aa9fb5eb539ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/WorldMap/xuedi.png
+Dependencies: []

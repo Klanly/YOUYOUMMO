@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 351276163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37800f6d9b62ef3d12ca77c0550d90f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/HeadImg/headpic_role_zhanshi.png
+Dependencies: []

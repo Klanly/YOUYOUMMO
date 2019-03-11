@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3802111170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 445336e6f1d20c05213a58597b13581e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1baffb78a3a7e3bed6df6ac2ccfbf6c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/Effect/Role/NvYao/Role_Monster_NvYao_Effect_Phy_2.prefab
+Dependencies: []

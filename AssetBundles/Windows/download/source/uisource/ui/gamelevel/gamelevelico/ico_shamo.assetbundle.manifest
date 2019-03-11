@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1586418168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2f461c1885677482709a0f68fdc69e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/GameLevel/GameLevelIco/Ico_ShaMo.png
+Dependencies: []

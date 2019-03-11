@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YOUYOUMMORPG.Plugins", "YOUYOUMMORPG.Plugins.csproj", "{937735DB-77CC-2058-A0EC-85D1E3F5A493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YOUYOUMMORPG", "YOUYOUMMORPG.csproj", "{BC272CCF-516E-84A0-0E21-24E9A487D3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YOUYOUMMORPG.Editor", "YOUYOUMMORPG.Editor.csproj", "{E836E621-DEBD-AEC3-52F7-E3C2E65D5BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937735DB-77CC-2058-A0EC-85D1E3F5A493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937735DB-77CC-2058-A0EC-85D1E3F5A493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937735DB-77CC-2058-A0EC-85D1E3F5A493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937735DB-77CC-2058-A0EC-85D1E3F5A493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC272CCF-516E-84A0-0E21-24E9A487D3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC272CCF-516E-84A0-0E21-24E9A487D3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC272CCF-516E-84A0-0E21-24E9A487D3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC272CCF-516E-84A0-0E21-24E9A487D3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E836E621-DEBD-AEC3-52F7-E3C2E65D5BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E836E621-DEBD-AEC3-52F7-E3C2E65D5BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E836E621-DEBD-AEC3-52F7-E3C2E65D5BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E836E621-DEBD-AEC3-52F7-E3C2E65D5BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

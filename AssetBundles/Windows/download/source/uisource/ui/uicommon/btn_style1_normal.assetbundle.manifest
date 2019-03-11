@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2885107487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98f9ba916c9added9ad84e8664f305a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/UICommon/Btn_Style1_Normal.png
+Dependencies: []

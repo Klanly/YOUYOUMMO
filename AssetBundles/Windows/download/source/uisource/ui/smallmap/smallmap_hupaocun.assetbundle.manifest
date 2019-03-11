@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1966663482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e907d0cdc024069988648c058c8eb53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UI/SmallMap/SmallMap_HuPaoCun.png
+Dependencies: []
